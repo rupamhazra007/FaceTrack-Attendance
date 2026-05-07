@@ -1,4 +1,5 @@
 # FaceTrack-Attendance
+
 AI-powered smart attendance system with real-time face recognition and automated record management
 
 📌 Overview
@@ -15,7 +16,9 @@ SmartFaceAttendance is an intelligent attendance management system that uses Fac
 📊 Attendance Database Storage
 ⚡ Fast & Accurate Identification
 💻 Simple and User-Friendly Interface
+
 🛠️ Technologies Used
+
 Python
 OpenCV
 Face Recognition
